@@ -1,8 +1,8 @@
 <?php
     $servername = "ayaseye.com";
-    $username = "ayaseyec_uaccess";
-    $password = "-hC.gv^h_;3}";
-    $dbname = "ayaseyec_vcDat";
+    $username = "redacted";
+    $password = "redacted";
+    $dbname = "redacted";
     
     include_once("../whitelist_check.php");
     
